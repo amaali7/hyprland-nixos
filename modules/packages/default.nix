@@ -33,9 +33,8 @@ in {
       age
       libnotify
       git
-      python3
+      python311Full
       lua
-      zig
       mpv
       firefox
       pqiv

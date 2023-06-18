@@ -78,7 +78,7 @@
   };
 
   # Set up locales (timezone and keyboard layout)
-  time.timeZone = "America/Los_Angeles";
+  time.timeZone = "Africa/Cairo";
   i18n.defaultLocale = "en_US.UTF-8";
   console = {
     font = "Lat2-Terminus16";
